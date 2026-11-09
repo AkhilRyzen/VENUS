@@ -1,7 +1,6 @@
 {
   "enabled": true,
-  "force_update": true,
+  "version": "1.0",
   "lib_url": "https://github.com/AkhilRyzen/VENUS/raw/refs/heads/main/libbgmi.so",
-  "min_version": "1.0",
-  "message": "Anosdklocthook Successfully"
+  "toast": "Anosdklocthook Successfully"
 }
