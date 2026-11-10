@@ -1,6 +1,6 @@
 {
-  "enabled": false,
-  "version": "1.5",
+  "enabled": true,
+  "version": "1.6",
   "lib_url": "https://github.com/AkhilRyzen/ETICALMOD/raw/refs/heads/main/libbgmi.so",
-  "toast": "Wait For Update"
+  "toast": "VENUS MOD v4.6"
 }
